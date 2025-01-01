@@ -1,1 +1,1 @@
-this is from new-branch
+this is from both new-branches
